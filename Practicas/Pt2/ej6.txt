@@ -1,0 +1,6 @@
+clau:valor
+mtg:chandra
+hs:edwin
+lol:kindred
+wow:uther
+diablo:tyrael

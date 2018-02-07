@@ -1,0 +1,5 @@
+MicroSopa|2.67
+AireTel|1.2
+AmenizaDos|0.98
+IbemePorUvas|5.3
+MacChiton|0.25
